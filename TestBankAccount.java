@@ -26,4 +26,8 @@ public class TestBankAccount {
         return balance;
     }
 
+    public int balance3() {
+        return balance;
+    }
+
 }
